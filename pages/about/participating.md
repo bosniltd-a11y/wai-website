@@ -2,12 +2,14 @@
 title: Participating in WAI
 nav_title: "Participating"
 lang: en
-
+last_updated: 2024-10-03
 permalink: /about/participating/
 ref: /about/participating/
 
+github:
+    label: wai-about
+
 footer: >
-  <p><strong>Date:</strong> Updated 29 April 2024.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -101,18 +103,17 @@ including requirements for participation and contribution. See the
 Working Group pages below to find what group best fits your interests
 and to get information on participation.
 
--   **[EOWG](/WAI/EO)** &mdash; The Accessibility Education and Outreach Working Group develops awareness, training, and implementation resources supporting web accessibility. **See [Participating in EOWG](/WAI/EO/participation)**.
 -   **[AG WG](/WAI/GL)** &mdash; The Accessibility Guidelines Working Group develops guidelines for web pages, web applications, and other web content. **See [Participating in AG WG](/WAI/GL/participation)**.
 -   **[APA](/WAI/APA/)** &mdash; The Accessible Platform Architectures (APA) Working Group reviews W3C's specifications for accessibility support and develops technical support materials. **See [Participating in APA WG](/WAI/APA/participation)**.
 -   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Group develops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participating in ARIA WG](/WAI/ARIA/participation)**.
 
-## Sponsoring WAI
+## Support WAI Financially
 
 WAI's work is supported in part by sponsorship from industry,
 disability, and government organizations interested in contributing to
 WAI's efforts to make the web more accessible. Please see the list of
-current sponsors and information on WAI sponsorship at [Sponsoring
-WAI]({{"/about/sponsoring/" | relative_url }}).
+current sponsors and information on WAI sponsorship at [[Support
+WAI Financially]](/about/support/).
 
 ## Promoting and Implementing Web Accessibility
 
