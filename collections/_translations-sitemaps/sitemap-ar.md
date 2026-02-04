@@ -1,4 +1,4 @@
----
+M---
 title: "Arabic Translations Progress"
 nav_title: Arabic Translations Progress
 tlang: ar
